@@ -1,5 +1,6 @@
-* {
+body {
     background-image: url("owen-wilson-collage.jpg")
+    background-repeat: repeat;
 }
 
 button {
