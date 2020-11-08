@@ -11,7 +11,7 @@ button {
     margin-right: auto;
     width: 50%;
     font-size: 16px;
-    box-shadow: 12 12px #999;
+    box-shadow: 12px 12px #999;
 }
 
 button:hover {
@@ -20,6 +20,6 @@ button:hover {
 
 button:active {
     background-image: url("owen-wilson-hover.jpg");
-    box-shadow: 7 7px #666;
+    box-shadow: 7px 7px #666;
     background-size: 100%;
 }
